@@ -1,0 +1,1 @@
+# Scanahand-Premium-Edition-No-Trial
